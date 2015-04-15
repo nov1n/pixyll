@@ -1,16 +1,16 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Hi, I'm Robert!
+email:       robert@carosi.nl
+author:      Robert Carosi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://carosi.nl"
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
 show_post_footers:  false
 
