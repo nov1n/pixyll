@@ -2,7 +2,7 @@
 title:       Hi, I'm Robert!
 email:       robert@carosi.nl
 author:      Robert Carosi
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Adventures of a 20 year old."
 baseurl:     ""
 url:         "http://nov1n.github.io"
 
@@ -10,7 +10,7 @@ url:         "http://nov1n.github.io"
 google_analytics:
 
 # Optional features
-animated:           true
+animated:           false
 show_related_posts: false
 show_post_footers:  false
 
