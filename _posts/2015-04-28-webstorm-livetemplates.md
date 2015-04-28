@@ -19,46 +19,46 @@ To create a Live Template launch WebStorm and head to File > Settings > Editor >
 Abbreviation: sget
 Description: Get a session variable.
 Template text:
-{% highlight ruby %}
+```
 Session.get($PARAMETER$)$END$
-{% endhighlight %}
+```
 
 Abbreviation: sset
 Description: Set a session variable.
 Template text:
-{% highlight ruby %}
+```
 Session.set($PARAMETER$)$END$
-{% endhighlight %}
+```
  
 ## 2. Define template helpers
 Abbreviation: thelp
 Description: Define template helpers.
 Template text:
-{% highlight ruby %}
+```
 Template.$PARAM$.helpers({
     $END$
 });
-{% endhighlight %}
+```
  
 ## 3. Create template rendered callback
 Abbreviation: trend
 Description: Defines the template rendered function.
 Template text:
-{% highlight ruby %}
+```
 Template.$PARAM$.rendered = function() {
     $END$
 };
-{% endhighlight %}
+```
 
 ## 4. Creating a meteor collection
 Now that we have seen the basic usage of Live Templates, let's create a more complex one. Start with the following:
 Abbreviation: coll
 Description: Creates a new meteor collection.
 Template text:
-{% highlight ruby %}
+```
 $VARIABLE$ = new Meteor.Collection("$NAME$");
 $END$
-{% endhighlight %}
+```
 
 Now click on ![Edit variables]({{ site.url }}/images/editvars.png). In the expression field of NAME, add decapitalize(VARIABLE). This produces the following result.
 ![Collection]({{ site.url }}/images/coll.gif)
