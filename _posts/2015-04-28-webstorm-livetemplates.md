@@ -8,7 +8,8 @@ categories: tech meteor
 ---
 ## What are Live Templates
  
-In many frameworks including meteor particular code structures show up again and again. [WebStorm](https://www.jetbrains.com/webstorm/) has a feature called Live Templates which can be seen as customizable autocomplete. We define an abbreviation which expands to our template text when we press the 'expand' key (tab by default).
+In many frameworks including meteor particular code structures show up again and again. [WebStorm](https://www.jetbrains.com/webstorm/) has a feature called Live Templates which can be seen as customizable autocomplete. They work similar to [textmate snippets](http://manual.macromates.com/en/snippets) and
+[snipmate for vim](https://github.com/msanders/snipmate.vim). We define an abbreviation which expands to our template text when we press the 'expand' key (tab by default).
  
 Below we will go over some of the most useful Live Templates I've found. If you'd like to share your own, feel free to do so in the comment section below.
  
