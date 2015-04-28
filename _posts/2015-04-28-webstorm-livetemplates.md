@@ -17,7 +17,7 @@ In many frameworks including meteor particular code structures show up again and
 Below we will go over 5 of the most useful Live Templates I've found. If you'd like to share your own, feel free to do so in the comment section below.
  
 ## Creating a Live Template
-To create a Live Template launch WebStorm and head to File > Settings > Editor > Live Templates. Now press the ![Add](images/add.png) on the top right and select Live Template. For each of the templates, click define ![No context available](images/no_applicable_context.png) and check JavaScript.
+To create a Live Template launch WebStorm and head to File > Settings > Editor > Live Templates. Now press the ![Add]({{ site.url }}/images/add.png) on the top right and select Live Template. For each of the templates, click define ![No context available]({{ site.url }}/images/no_applicable_context.png) and check JavaScript.
  
 ## 1. Getting and setting Session variables
 Abbreviation: sget
@@ -64,8 +64,8 @@ $VARIABLE$ = new Meteor.Collection("$NAME$");
 $END$
 {% endhighlight %}
 
-Now click on ![Edit variables](images/editvars.png). In the expression field of NAME, add decapitalize(VARIABLE). This produces the following result.
-![Collection](images/coll.gif)
+Now click on ![Edit variables]({{ site.url }}/images/editvars.png). In the expression field of NAME, add decapitalize(VARIABLE). This produces the following result.
+![Collection]({{ site.url }}/images/coll.gif)
 As you can see the name of the collection turns into camelCase as we type
 GIF
 
