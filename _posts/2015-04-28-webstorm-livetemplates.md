@@ -35,7 +35,7 @@ Template.$PARAM$.helpers({
 });
 ```
  
-## 3. Template rendered callback
+## 3. Template rendered
 <i>Abbreviation:</i> trend<br/>
 <i>Description:</i> Defines the template rendered function.<br/>
 <i>Template text:</i><br/>
@@ -45,7 +45,7 @@ Template.$PARAM$.rendered = function() {
 };
 ```
 
-## 4. A new meteor collection
+## 4. New meteor collection
 Now that we have seen the basic usage of Live Templates, let's create a more complex one. Start with the following:<br/>
 
 <i>Abbreviation:</i> coll<br/>
