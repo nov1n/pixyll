@@ -16,24 +16,24 @@ Below we will go over 5 of the most useful Live Templates I've found. If you'd l
 To create a Live Template launch WebStorm and head to File > Settings > Editor > Live Templates. Now press the ![Add]({{ site.url }}/images/new.png) on the top right and select Live Template. For each of the templates, click define ![No context available]({{ site.url }}/images/no_applicable_context.png) and check JavaScript.
  
 ## 1. Getting and setting Session variables
-Abbreviation: sget<br/>
-Description: Get a session variable.<br/>
-Template text:<br/>
+<b>Abbreviation: sget<br/>
+<b>Description: Get a session variable.<br/>
+<b>Template text:<br/>
 ```
 Session.get($PARAMETER$)$END$
 ```
 
-Abbreviation: sset<br/>
-Description: Set a session variable.<br/>
-Template text:<br/>
+<b>Abbreviation:<b/> sset<br/>
+<b>Description:<b/> Set a session variable.<br/>
+<b>Template text:<b/>
 ```
 Session.set($PARAMETER$)$END$
 ```
  
 ## 2. Define template helpers
-Abbreviation: thelp<br/>
-Description: Define template helpers.<br/>
-Template text:<br/>
+<b>Abbreviation:<b/> thelp<br/>
+<b>Description:<b/> Define template helpers.<br/>
+<b>Template text:<b/>
 ```
 Template.$PARAM$.helpers({
     $END$
@@ -41,9 +41,9 @@ Template.$PARAM$.helpers({
 ```
  
 ## 3. Create template rendered callback
-Abbreviation: trend<br/>
-Description: Defines the template rendered function.<br/>
-Template text:<br/>
+<b>Abbreviation:<b/> trend<br/>
+<b>Description:<b/> Defines the template rendered function.<br/>
+<b>Template text:<b/>
 ```
 Template.$PARAM$.rendered = function() {
     $END$
@@ -52,9 +52,10 @@ Template.$PARAM$.rendered = function() {
 
 ## 4. Creating a meteor collection
 Now that we have seen the basic usage of Live Templates, let's create a more complex one. Start with the following:<br/>
-Abbreviation: coll<br/>
-Description: Creates a new meteor collection.<br/>
-Template text:<br/>
+
+<b>Abbreviation:<b/> coll<br/>
+<b>Description<b/>: Creates a new meteor collection.<br/>
+<b>Template text:<b/>
 ```
 $VARIABLE$ = new Meteor.Collection("$NAME$");
 $END$
