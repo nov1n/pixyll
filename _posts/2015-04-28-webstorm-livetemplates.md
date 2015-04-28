@@ -15,20 +15,15 @@ Below we will go over some of the most useful Live Templates I've found. If you'
 ## Creating a Live Template
 To create a Live Template launch WebStorm and head to File > Settings > Editor > Live Templates. Now press the ![Add]({{ site.url }}/images/new.png) on the top right and select Live Template. For each of the templates, find ![No context available]({{ site.url }}/images/no_applicable_context.png), click define and check JavaScript.
  
-## 1. Getting and setting Session variables
+## 1. Getting Session variables
 <i>Abbreviation:</i> sget<br/>
 <i>Description:</i> Get a session variable.<br/>
 <i>Template text:</i>
 ```
-Session.get($PARAMETER$)$END$
+Session.get("$PARAMETER$")$END$
 ```
 
-<i>Abbreviation:</i> sset<br/>
-<i>Description:</i> Set a session variable.<br/>
-<i>Template text:</i>
-```
-Session.set($PARAMETER$)$END$
-```
+Let's break down what the template text means. The `$PARAMETER$` stands for a variable field in the template. In this case the name of the session variable we wish to retrieve. `$END$` is where the cursor ends after hitting tab.
  
 ## 2. Define template helpers
 <i>Abbreviation:</i> thelp<br/>
@@ -50,7 +45,7 @@ Template.$PARAM$.rendered = function() {
 };
 ```
 
-## 4. Creating a meteor collection
+## 4. New a meteor collection
 Now that we have seen the basic usage of Live Templates, let's create a more complex one. Start with the following:<br/>
 
 <i>Abbreviation:</i> coll<br/>
@@ -61,8 +56,10 @@ $VARIABLE$ = new Meteor.Collection("$NAME$");
 $END$
 ```
 
-Now click on ![Edit variables]({{ site.url }}/images/editvars.png). In the expression field of NAME, add `decapitalize(VARIABLE)`. This produces the following result.<br/>
-![Collection]({{ site.url }}/images/coll.gif)<br/>
+Now click on ![Edit variables]({{ site.url }}/images/editvars.png). In the expression field of NAME, add `decapitalize(VARIABLE)`. Now save and close all dialogs and we should get the following result.<br/>
+
+![Collection]({{ site.url }}/images/coll.gif)
+
 As you can see the name of the collection turns into camelCase as we type.
 
 The expression field is very powerful. The complete list of available functions can be found [here](https://www.jetbrains.com/webstorm/help/live-templates-2.html#d373781e466).
