@@ -16,24 +16,24 @@ Below we will go over some of the most useful Live Templates I've found. If you'
 To create a Live Template launch WebStorm and head to File > Settings > Editor > Live Templates. Now press the ![Add]({{ site.url }}/images/new.png) on the top right and select Live Template. For each of the templates, find ![No context available]({{ site.url }}/images/no_applicable_context.png), click define and check JavaScript.
  
 ## 1. Getting and setting Session variables
-<b>Abbreviation:</b> sget<br/>
-<b>Description:</b> Get a session variable.<br/>
-<b>Template text:</b>
+<i>Abbreviation:</i> sget<br/>
+<i>Description:</i> Get a session variable.<br/>
+<i>Template text:</i>
 ```
 Session.get($PARAMETER$)$END$
 ```
 
-<b>Abbreviation:</b> sset<br/>
-<b>Description:</b> Set a session variable.<br/>
-<b>Template text:</b>
+<i>Abbreviation:</i> sset<br/>
+<i>Description:</i> Set a session variable.<br/>
+<i>Template text:</i>
 ```
 Session.set($PARAMETER$)$END$
 ```
  
 ## 2. Define template helpers
-<b>Abbreviation:</b> thelp<br/>
-<b>Description:</b> Define template helpers.<br/>
-<b>Template text:</b>
+<i>Abbreviation:</i> thelp<br/>
+<i>Description:</i> Define template helpers.<br/>
+<i>Template text:</i>
 ```
 Template.$PARAM$.helpers({
     $END$
@@ -41,9 +41,9 @@ Template.$PARAM$.helpers({
 ```
  
 ## 3. Create template rendered callback
-<b>Abbreviation:</b> trend<br/>
-<b>Description:</b> Defines the template rendered function.<br/>
-<b>Template text:</b>
+<i>Abbreviation:</i> trend<br/>
+<i>Description:</i> Defines the template rendered function.<br/>
+<i>Template text:</i>
 ```
 Template.$PARAM$.rendered = function() {
     $END$
@@ -53,9 +53,9 @@ Template.$PARAM$.rendered = function() {
 ## 4. Creating a meteor collection
 Now that we have seen the basic usage of Live Templates, let's create a more complex one. Start with the following:<br/>
 
-<b>Abbreviation:</b> coll<br/>
-<b>Description</b>: Creates a new meteor collection.<br/>
-<b>Template text:</b>
+<i>Abbreviation:</i> coll<br/>
+<i>Description</i>: Creates a new meteor collection.<br/>
+<i>Template text:</i>
 ```
 $VARIABLE$ = new Meteor.Collection("$NAME$");
 $END$
