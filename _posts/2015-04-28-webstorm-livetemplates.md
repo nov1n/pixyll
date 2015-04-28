@@ -16,9 +16,9 @@ Below we will go over some of the most useful Live Templates I've found. If you'
 To create a Live Template launch WebStorm and head to File > Settings > Editor > Live Templates. Now press the ![Add]({{ site.url }}/images/new.png) on the top right and select Live Template. For each of the templates, find ![No context available]({{ site.url }}/images/no_applicable_context.png), click define and check JavaScript.
  
 ## 1. Getting and setting Session variables
-<b>Abbreviation: sget<br/>
-<b>Description: Get a session variable.<br/>
-<b>Template text:<br/>
+<b>Abbreviation:</b> sget<br/>
+<b>Description:</b> Get a session variable.<br/>
+<b>Template text:</b>
 ```
 Session.get($PARAMETER$)$END$
 ```
