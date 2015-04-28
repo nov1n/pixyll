@@ -1,9 +1,17 @@
-<footer class="footer">
+<footer>
   <div class="p2 wrap">
     <div class="measure mt1 center">
       <small>
-        Crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
-        &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">Github</a>.
+        {% if site.github_username %}
+          <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
+        {% endif %}
+        <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"></a>
+        {% if site.email %}
+          <a class="fa fa-envelope" href="mailto:{{ site.email }}"></a>
+        {% endif %}
+        {% if site.linkedin_username %}
+          <a class="fa fa-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"></a>
+        {% endif %}
       </small>
     </div>
   </div>
