@@ -1,8 +1,5 @@
 ---
 published: true
----
-
----
 layout:     post
 title:      WebStorm Live Templates for Meteor development
 date:       2015-04-26 23:30:39
