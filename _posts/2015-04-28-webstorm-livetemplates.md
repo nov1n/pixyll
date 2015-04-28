@@ -10,7 +10,7 @@ categories: tech meteor
  
 In many frameworks including meteor particular code structures show up again and again. [WebStorm](https://www.jetbrains.com/webstorm/) has a feature called Live Templates which can be seen as customizable autocomplete. We define an abbreviation which expands to our template text when we press the 'expand' key (tab by default).
  
-Below we will go over 5 of the most useful Live Templates I've found. If you'd like to share your own, feel free to do so in the comment section below.
+Below we will go over some of the most useful Live Templates I've found. If you'd like to share your own, feel free to do so in the comment section below.
  
 ## Creating a Live Template
 To create a Live Template launch WebStorm and head to File > Settings > Editor > Live Templates. Now press the ![Add]({{ site.url }}/images/new.png) on the top right and select Live Template. For each of the templates, click define ![No context available]({{ site.url }}/images/no_applicable_context.png) and check JavaScript.
