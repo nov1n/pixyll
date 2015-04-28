@@ -20,10 +20,10 @@ To create a Live Template launch WebStorm and head to File > Settings > Editor >
 <i>Description:</i> Get a session variable.<br/>
 <i>Template text:</i><br/>
 {% highlight ruby %}
-Session.get("$PARAMETER$")$END$
+Session.get("$PARAM$")$END$
 {% endhighlight %}
 
-Let's break down what the template text means. The `$PARAMETER$` stands for a variable field in the template. In this case the name of the session variable we wish to get. `$END$` is where the cursor ends after hitting tab.
+Let's break down what the template text means. The `$PARAM$` stands for a variable field in the template. In this case the name of the session variable we wish to get. `$END$` is where the cursor ends after hitting tab.
  
 ## 2. Template helpers
 <i>Abbreviation:</i> thelp<br/>
@@ -59,7 +59,7 @@ $VARIABLE$ = new Meteor.Collection("$NAME$");
 $END$
 {% endhighlight %}
 
-Now click on ![Edit variables]({{ site.url }}/images/editvars.png). In the expression field of NAME, add `decapitalize(VARIABLE)`. Now save and close all dialogs and we should get the following result.<br/>
+Now click on ![Edit variables]({{ site.url }}/images/editvars.png). In the expression field of `NAME`, add `decapitalize(VARIABLE)`. Now save and close all dialogs and we should get the following result.<br/>
 
 ![Collection]({{ site.url }}/images/coll.gif)
 
