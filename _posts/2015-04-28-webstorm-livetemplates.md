@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ---
@@ -8,7 +8,6 @@ title:      WebStorm Live Templates for Meteor development
 date:       2015-04-26 23:30:39
 summary:    Learn how to use Live Templates in Webstorm to speed up meteor development.
 categories: tech meteor
-published: true
 ---
 ## What are Live Templates
  
