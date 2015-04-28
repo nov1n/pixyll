@@ -19,9 +19,9 @@ To create a Live Template launch WebStorm and head to File > Settings > Editor >
 <i>Abbreviation:</i> sget<br/>
 <i>Description:</i> Get a session variable.<br/>
 <i>Template text:</i><br/>
-```
+{% highlight ruby %}
 Session.get("$PARAMETER$")$END$
-```
+{% endhighlight %}
 
 Let's break down what the template text means. The `$PARAMETER$` stands for a variable field in the template. In this case the name of the session variable we wish to get. `$END$` is where the cursor ends after hitting tab.
  
@@ -29,21 +29,24 @@ Let's break down what the template text means. The `$PARAMETER$` stands for a va
 <i>Abbreviation:</i> thelp<br/>
 <i>Description:</i> Define template helpers.<br/>
 <i>Template text:</i><br/>
-```
+{% highlight ruby %}
 Template.$PARAM$.helpers({
     $END$
 });
-```
+{% endhighlight %}
+Live templates preserve indentation so be sure to indent your template text the way you want your code to look.
+
  
 ## 3. Template rendered
 <i>Abbreviation:</i> trend<br/>
 <i>Description:</i> Defines the template rendered function.<br/>
 <i>Template text:</i><br/>
-```
+{% highlight ruby %}
 Template.$PARAM$.rendered = function() {
     $END$
 };
-```
+{% endhighlight %}
+Similar to the one above, but for the rendered callback instead of the helper functions.
 
 ## 4. New meteor collection
 Now that we have seen the basic usage of Live Templates, let's create a more complex one. Start with the following:<br/>
@@ -51,10 +54,10 @@ Now that we have seen the basic usage of Live Templates, let's create a more com
 <i>Abbreviation:</i> coll<br/>
 <i>Description</i>: Creates a new meteor collection.<br/>
 <i>Template text:</i><br/>
-```
+{% highlight ruby %}
 $VARIABLE$ = new Meteor.Collection("$NAME$");
 $END$
-```
+{% endhighlight %}
 
 Now click on ![Edit variables]({{ site.url }}/images/editvars.png). In the expression field of NAME, add `decapitalize(VARIABLE)`. Now save and close all dialogs and we should get the following result.<br/>
 
