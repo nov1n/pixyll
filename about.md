@@ -17,7 +17,8 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <i>play</i> cheesy songs on my guitar
 </p>
 
-![Robert]({{ site.url }}/images/robert.png){: .portrait}
+![Robert]({{ site.url }}/images/robert.png)
+{: .portrait}
 
 Download my CV [here]({{ site.url }}/cv.pdf).
 
