@@ -10,11 +10,11 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <span class="i">I</span>
 <span class="bracket">{</span>
 <i><span class="i-verb">I </span>am</span> Dutch as well as Italian (yes, including the hand gestures)<br />
-<span class="bold"><span class="i-verb">I </span>study</span> Computer Science at the TU Delft in the Netherlands<br />
-<span class="bold"><span class="i-verb">I </span>play</span> cheesy songs on my guitar<br />
-<span class="bold"><span class="i-verb">I </span>build</span> (web) apps using the latest technologies<br />
-<span class="bold"><span class="i-verb">I </span>read</span> psychology books in public transit<br />
-<span class="bold"><span class="i-verb">I </span>travel</span> for my quest to see the world
+<span><span class="i-verb">I </span>study</span> Computer Science at the TU Delft in the Netherlands<br />
+<span><span class="i-verb">I </span>play</span> cheesy songs on my guitar<br />
+<span><span class="i-verb">I </span>build</span> (web) apps using the latest technologies<br />
+<span><span class="i-verb">I </span>read</span> psychology books in public transit<br />
+<span><span class="i-verb">I </span>travel</span> for my quest to see the world
 </p>
 
 <p class="sixty">I occasionally take pictures when I'm not at home. <a href="https://instagram.com/robertcarosi/">Here</a> are the ones I like most.</p>
