@@ -44,6 +44,11 @@ img[src$='#portrait'] {
     display: none;
   }
 }
+@media screen and (max-width: 64em) and (min-width: 48em) {
+  img[src$='#portrait'] {
+    margin-top: -140px;
+  }
+}
 @media screen and (min-width: 48em) and (max-width: 300em) {
   .i-verb {
     display: none;
