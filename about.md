@@ -1,19 +1,17 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I
+* am Dutch as well as Italian (yes this means my hands make those funny gestures when I talk)
+* study Computer Science at the TU Delft in the Netherlands
+* read psychology books in trains and buses
+* love to build (web) apps using the latest technologies
+* am on a quest to see the world
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Download my CV [here]({{ site.url }}/cv.pdf).
 
+Big ups for [John Otander](http://johnotander.com) for making [Pixyll](https://github.com/johnotander/pixyll).
 Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
