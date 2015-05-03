@@ -14,7 +14,7 @@ body {
 .sixty {
   width: 60%;
 }
-.verbs i{
+.verbs span{
   font-weight: bold;
 }
 .i {
@@ -23,13 +23,17 @@ body {
   font-size: 1.5em;
 }
 .bracket {
-  font-size: 11em;
+  font-size: 10.5em;
   opacity: 0.1;
   float: left;
   color: #0096cc;
-  line-height: 1em;
-  padding-top:  0.07em;
+  line-height: 0.95em;
+  padding-top:  0.1em;
   margin-left: 0.07em;
+}
+img[src$='#portrait'] {
+  width: 50px;
+  vertical-align: middle;
 }
 img[src$='#portrait'] {
   width: 240px;
