@@ -31,7 +31,8 @@ img[src$='#portrait'] {
   float: right;
   margin-top: -90px;
 }
-@media screen and (max-width: 48em)
-img[src$='#portrait'] {
-  margin-top: 0px;
+@media screen and (max-width: 48em) {
+  img[src$='#portrait'] {
+    margin-top: 0px;
+  }
 }
