@@ -17,13 +17,11 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <i><span class="i-verb">I </span>travel</i> for my quest to see the world
 </p>
 
+<p class="sixty">I occasionally take pictures when I'm not at home. <a href="https://instagram.com/robertcarosi/">Here</a> are the ones I like most.</p>
+Say hello by writing me a line at robert[at]carosi.nl.
+
 Download my CV [here]({{ site.url }}/cv.pdf).
 
-<!-- Many thanks to [John Otander](http://johnotander.com) for making [Pixyll](https://github.com/johnotander/pixyll). -->
-
-<p class="sixty">I occasionally take pictures when I'm not at home. <a href="https://instagram.com/robertcarosi/">Here</a> are the ones I like most.
-
-Say hello by writing me a line at robert[at]carosi.nl.</p>
-</p>
-
 ![Robert]({{ site.url }}/images/robert.png#portrait)
+
+<!-- Many thanks to [John Otander](http://johnotander.com) for making [Pixyll](https://github.com/johnotander/pixyll). -->
