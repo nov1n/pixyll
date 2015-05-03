@@ -9,7 +9,7 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <p class="verbs">
 <span class="i">I</span>
 <span class="bracket">{</span>
-<i><span class="i-verb">I </span>am</span> Dutch as well as Italian (yes, including the hand gestures)<br />
+<span><span class="i-verb">I </span>am</span> Dutch as well as Italian (yes, including the hand gestures)<br />
 <span><span class="i-verb">I </span>study</span> Computer Science at the TU Delft in the Netherlands<br />
 <span><span class="i-verb">I </span>play</span> cheesy songs on my guitar<br />
 <span><span class="i-verb">I </span>build</span> (web) apps using the latest technologies<br />
