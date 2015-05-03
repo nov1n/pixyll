@@ -23,4 +23,5 @@ Download my CV [here]({{ site.url }}/cv.pdf).
 
 Many thanks to [John Otander](http://johnotander.com) for making [Pixyll](https://github.com/johnotander/pixyll).
 
+<span class"doodle">Let's get in touch!</span>
 
