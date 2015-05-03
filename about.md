@@ -6,7 +6,7 @@ permalink: /about/
 
 A 20-year-old venturing into the blogosphere to write about technology and journeys into the unknown.
 
-<div class="verbs">
+<p class="verbs">
 <span class="i">I</span>
 <span class="bracket">{</span>
 <i>am</i> Dutch as well as Italian (yes, including the hand gestures)<br />
@@ -15,7 +15,7 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <i>build</i> (web) apps using the latest technologies<br />
 <i>play</i> cheesy songs on my guitar<br />
 <i>travel</i> for my quest to see the world
-</div>
+</p>
 
 Download my CV [here]({{ site.url }}/cv.pdf).
 
