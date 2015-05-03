@@ -17,11 +17,10 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <i>play</i> cheesy songs on my guitar
 </p>
 
-![Robert]({{ site.url }}/images/robert.png#portrait)
-
 Download my CV [here]({{ site.url }}/cv.pdf).
 
 <!-- Many thanks to [John Otander](http://johnotander.com) for making [Pixyll](https://github.com/johnotander/pixyll). -->
 
 <span class"doodle">Let's get in touch!</span>
 
+![Robert]({{ site.url }}/images/robert.png#portrait)
