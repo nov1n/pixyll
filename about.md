@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 I
-- am Dutch as well as Italian (yes this means my hands make those funny gestures when I talk)
+
+- am Dutch as well as Italian (yes including the funny hand gestures)
 - study Computer Science at the TU Delft in the Netherlands
 - read psychology books in trains and buses
 - love to build (web) apps using the latest technologies
