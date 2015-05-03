@@ -9,12 +9,12 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <div class="verbs">
 <span class="i">I</span>
 <span class="bracket">{</span>
-<i>am</i> Dutch as well as Italian (yes, including the hand gestures)  
-<i>study</i> Computer Science at the TU Delft in the Netherlands  
-<i>read</i> psychology books in public transit  
-<i>build</i> (web) apps using the latest technologies  
-<i>play</i> cheesy songs on my guitar  
-<i>travel</i> for my quest to see the world  
+<i>am</i> Dutch as well as Italian (yes, including the hand gestures)<br />
+<i>study</i> Computer Science at the TU Delft in the Netherlands<br />
+<i>read</i> psychology books in public transit<br />
+<i>build</i> (web) apps using the latest technologies<br />
+<i>play</i> cheesy songs on my guitar<br />
+<i>travel</i> for my quest to see the world
 </div>
 
 Download my CV [here]({{ site.url }}/cv.pdf).
