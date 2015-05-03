@@ -16,7 +16,10 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <i>travel</i> for my quest to see the world<br />
 <i>play</i> cheesy songs on my guitar
 </p>
-![Robert]({{ site.url }}/images/robert.png){: .portrait }
+
+<div class="portrait">
+![Robert]({{ site.url }}/images/robert.png)
+</div>
 
 Download my CV [here]({{ site.url }}/cv.pdf).
 
