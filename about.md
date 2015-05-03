@@ -20,7 +20,9 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <p class="sixty">I occasionally take pictures when I'm not at home. <a href="https://instagram.com/robertcarosi/">Here</a> are the ones I like most.</p>
 Say hello by writing me a line at robert[at]carosi.nl.
 
-![PDF]({{ site.url }}/images/pdf-icon.jpg#pdf)[Download my CV]({{ site.url }}/cv.pdf).
+<div class="cv">
+<img src="/images/pdf-icon.jpg#pdf" alt="CV"><a href="/cv.pdf">Download my CV</a>
+</div>
 
 ![Robert]({{ site.url }}/images/robert.png#portrait)
 
