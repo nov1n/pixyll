@@ -38,6 +38,7 @@ body {
 .cv {
   position: relative;
   top: 30px;
+  padding-left: 20px;
 }
 img[src$='#pdf'] {
   width: 50px;
@@ -47,7 +48,7 @@ img[src$='#pdf'] {
 img[src$='#portrait'] {
   width: 240px;
   float: right;
-  margin-top: -300px;
+  margin-top: -285px;
 }
 @media screen and (max-width: 48em) {
   .bracket {
