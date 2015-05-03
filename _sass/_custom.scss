@@ -38,6 +38,9 @@ img[src$='#portrait'] {
   .i {
     display: none;
   }
+  img[src$='#portrait'] {
+    display: none;
+  }
 }
 @media screen and (min-width: 48em) and (max-width: 300em) {
   .i-verb {
