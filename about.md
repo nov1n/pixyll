@@ -13,10 +13,10 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 <i>study</i> Computer Science at the TU Delft in the Netherlands<br />
 <i>build</i> (web) apps using the latest technologies<br />
 <i>read</i> psychology books in public transit<br />
-![Robert]({{ site.url }}/images/robert.png)
 <i>travel</i> for my quest to see the world<br />
 <i>play</i> cheesy songs on my guitar
 </p>
+![Robert]({{ site.url }}/images/robert.png)
 
 Download my CV [here]({{ site.url }}/cv.pdf).
 
