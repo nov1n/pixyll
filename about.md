@@ -10,12 +10,12 @@ I
 
 <span class="i">I</span>
 <span class="bracket">{</span>
-<i>am</i> Dutch as well as Italian (yes, including the funny hand gestures)  
-<i>study</i> Computer Science at the TU Delft in the Netherlands  
-<i>read</i> psychology books in public transit  
-<i>build</i> (web) apps using the latest technologies  
-<i>play</i> cheesy songs on my guitar  
-<i>travel</i> for my quest to see the world  
+<i class="vowel">am</i> Dutch as well as Italian (yes, including the funny hand gestures)  
+<i class="vowel">study</i> Computer Science at the TU Delft in the Netherlands  
+<i class="vowel">read</i> psychology books in public transit  
+<i class="vowel">build</i> (web) apps using the latest technologies  
+<i class="vowel">play</i> cheesy songs on my guitar  
+<i class="vowel">travel</i> for my quest to see the world  
 
 Download my CV [here]({{ site.url }}/cv.pdf).
 
