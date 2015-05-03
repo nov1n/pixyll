@@ -19,4 +19,4 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 
 Download my CV [here]({{ site.url }}/cv.pdf).
 
-Big ups for [John Otander](http://johnotander.com) for making [Pixyll](https://github.com/johnotander/pixyll).
+Many thanks to [John Otander](http://johnotander.com) for making [Pixyll](https://github.com/johnotander/pixyll).
