@@ -21,7 +21,7 @@ A 20-year-old venturing into the blogosphere to write about technology and journ
 Say hello by writing me a line at robert[at]carosi.nl.
 
 <div class="cv">
-<img src="/images/pdf-icon.jpg#pdf" alt="CV"><a href="/cv.pdf">Download my CV</a>
+<img src="/images/pdf-icon.jpg#pdf" alt="CV"><p class="inline"><a href="/cv.pdf">Download my CV</a></p>
 </div>
 
 ![Robert]({{ site.url }}/images/robert.png#portrait)
