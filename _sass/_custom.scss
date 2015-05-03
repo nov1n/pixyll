@@ -39,8 +39,7 @@ img[src$='#portrait'] {
     display: none;
   }
   img[src$='#portrait'] {
-    margin-top: -345px;
-    opacity: 0.1;
+    display: none;
   }
 }
 @media screen and (min-width: 48em) and (max-width: 300em) {
