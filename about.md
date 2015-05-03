@@ -6,8 +6,6 @@ permalink: /about/
 
 A 20-year-old venturing into the blogosphere to write about technology and journeys into the unknown.
 
-I
-
 <span class="i">I</span>
 <span class="bracket">{</span>
 <i class="vowel">am</i> Dutch as well as Italian (yes, including the funny hand gestures)  
