@@ -21,6 +21,6 @@ Download my CV [here]({{ site.url }}/cv.pdf).
 
 <!-- Many thanks to [John Otander](http://johnotander.com) for making [Pixyll](https://github.com/johnotander/pixyll). -->
 
-<p class"sixty">Let's get in touch!</p>
+<p class"sixty">I occasionally take pictures when I'm not at home. [Here](https://instagram.com/robertcarosi/) are the ones I like most. Say hello by writing me a line at robert[at]carosi.nl.</p>
 
 ![Robert]({{ site.url }}/images/robert.png#portrait)
