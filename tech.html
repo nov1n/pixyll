@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
     <div class="posts">
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
             {% if post.categories contains 'tech' %}
                 <div class="post">
                     <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>

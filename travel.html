@@ -5,7 +5,8 @@ layout: default
 <div class="home">
 
     <div class="posts">
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
+        {% if post.categories contains 'travel' %}
         <div class="post">
             <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
@@ -17,6 +18,7 @@ layout: default
                 {% endif %}
             </p>
         </div>
+        {% endif %}
         {% endfor %}
     </div>
 
