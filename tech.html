@@ -4,6 +4,8 @@ category: tech
 ---
 
 <div class="home">
+    {{ category }}
+    {{ email }}
     {% for post in paginator.posts %}
         {% if post.categories contains category %}
         <div class="post">
