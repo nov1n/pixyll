@@ -18,5 +18,8 @@ layout: default
                 </p>
             </div>
         {% endfor %}
+        {% if not site.categories.travel %}
+            <p>Coming soon...</p>
+        {% endif %}
     </div>
 </div>
