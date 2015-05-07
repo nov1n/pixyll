@@ -4,8 +4,9 @@ layout:     post
 title:      WebStorm Live Templates for Meteor
 date:       2015-04-26 23:30:39
 summary:    Learn how to use Live Templates in Webstorm to speed up meteor development.
-categories: tech meteor
+categories: tech
 ---
+
 ## What are Live Templates
  
 In many frameworks including meteor particular code structures show up again and again. [WebStorm](https://www.jetbrains.com/webstorm/) has a feature called Live Templates which can be seen as customizable autocomplete. They work similar to [textmate snippets](http://manual.macromates.com/en/snippets) and
