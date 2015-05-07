@@ -1,11 +1,11 @@
 ---
 layout: default
-categories: travel
+category: travel
 ---
 
 <div class="home">
     {% for post in paginator.posts %}
-        {% if post.categories contains page.categories %}
+        {% if post.categories contains category %}
         <div class="post">
             <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
