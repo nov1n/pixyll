@@ -4,22 +4,21 @@ category: tech
 ---
 
 <div class="home">
-
-    <div class="posts">
-        {% for post in paginator.posts %}
+    {% for post in paginator.posts %}
+        {% if post.categories contains category %}
         <div class="post">
             <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
             <p class="post-summary">
                 {% if post.summary %}
-                {{ post.summary }}
+                    {{ post.summary }}
                 {% else %}
-                {{ post.excerpt }}
+                    {{ post.excerpt }}
                 {% endif %}
             </p>
         </div>
-        {% endfor %}
-    </div>
+        {% endif %}
+    {% endfor %}
 
     {% include pagination.html %}
 </div>
