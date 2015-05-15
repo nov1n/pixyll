@@ -14,7 +14,7 @@ A possible application of two-way data binding can best be illustrated with an e
 ## A simple example
 
 Imagine we want to create a very simple Meteor app that converts Fahrenheit to Celsius. The user fills in a text field with the temperature in Fahrenheit, 
-we display the result in Celsius right next to it.
+we display the converted temperature in Celsius next to it.
 Let's see how we might do this. We start with a text field and add an event-listener to the template. Whenever the input changes 
 we take the value of the text field and store it in a Session variable named 'fahrenheit'.
 
@@ -25,6 +25,7 @@ As for the conversion, the formula is:
 Armed with this information we create a span and set its text equal to the value of the 'fahrenheit' Session variable we previously created.
 
 This should give us something like this:
+<iframe height='50' width='400' src='http://converter.meteor.com'></iframe>
 
 index.html
 {% highlight html %}
