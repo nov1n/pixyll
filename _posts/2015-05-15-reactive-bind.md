@@ -60,7 +60,7 @@ Template.converter.helpers({
 
 ## Reactive-bind
 
-This pattern is very common in Meteor and can be applied to all the different input elements. For this reason I created a smart package called reactive-bind. As the name suggests it simplifies binding input elements to Session variables forming a reactive two-way data binding. This means that the Session variable will display the value of the input element and the input element will reflect changes made to the Session variable.
+This pattern is very common in Meteor and can be applied to all the different input elements. For this reason I created a smart package called [reactive-bind](https://atmospherejs.com/nov1n/reactive-bind). As the name suggests it simplifies binding input elements to Session variables forming a reactive two-way data binding. This means that the Session variable will display the value of the input element and the input element will reflect changes made to the Session variable.
 
 Several other packages are out there, doing similar things. However they either required tedious setup, only offer one-way binding or are no longer maintained.
 
@@ -71,7 +71,7 @@ To use reactive-bind we type
 
 in our project folder, to add it to our project.
 
-Now all we need to do is add a data attribute called 'data-binding' to our input element to bind it to a Session variable with the same name. To stick with our example we would now write:
+Now all we need to do is add a data attribute called 'data-binding' with the name of the variable to our input element. This will bind it to a Session variable with the same name. To stick with our example we would now write:
 
 index.html
 {% highlight html %}
@@ -96,7 +96,9 @@ Template.converter.helpers({
 });
 {% endhighlight %}
 
-The code above achieves the exact same result as before, only now in a much cleaner, more expressive way. Note we did not have to write the event handlers at all. Only one input element was used in our example, but many applications may require more than that, each with different event handlers. reactive-bind will take care of the binding for you, hopefully speeding up development.
+The code above produces the exact same result as before in a much cleaner, more expressive way. Note that we did not have to write the event handlers at all. 
+
+Only one input element was used in our example, but many applications may require more than that, each with different event handlers. reactive-bind will take care of the binding, so you can focus on writing your app.
 
 For more examples involving multiple input elements click [here](http://reactive-bind-demo.meteor.com/).
 The package is still in its early stages so feel free to contribute, open issues or say thank you on [Github](https://github.com/nov1n/reactive-bind/) or [Atmosphere](https://atmospherejs.com/nov1n/reactive-bind).
