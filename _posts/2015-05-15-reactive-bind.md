@@ -65,7 +65,7 @@ This pattern is very common in Meteor and can be applied to all the different in
 Several other packages are out there, doing similar things. However they either required tedious setup, only offer one-way binding or are no longer maintained.
 
 ## Rewriting the example
-To use reactive bind we simply type
+To use reactive-bind we simply type
 `meteor add nov1n:reactive-bind`
 to add it to our project.
 
