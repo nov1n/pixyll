@@ -31,11 +31,15 @@ index.html
 <body>
 {% raw %}
   {{ >converter }}
+{% endraw %}
 </body>
+
 
 <template name='converter'>
   <input id='fahrenheit' type='text'>
+  {% raw %}
   <span id='celsius'>{{ getCelsius }}</span>
+  {% endraw %}
 </template>
 {% endhighlight %}
 
@@ -74,12 +78,16 @@ Now all we need to do is add a data attribute called 'data-binding' to our input
 index.html
 {% highlight html %}
 <body>
+  {% raw %}
   {{ >converter }}
+  {% endraw %}
 </body>
 
 <template name='converter'>
   <input data-binding='fahrenheit' type='text'>
+  {% raw %}
   <span id='celsius'>{{ getCelsius }}</span>
+  {% endraw %}
 </template>
 {% endhighlight %}
 
