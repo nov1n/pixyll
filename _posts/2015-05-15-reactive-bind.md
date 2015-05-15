@@ -44,7 +44,7 @@ index.js
 {% highlight javascript %}
 Template.converter.events = {
   'keyup #fahrenheit': function (e) {
-    var fahrenheit = e.target.value
+    var fahrenheit = e.target.value;
     var celsius = (fahrenheit - 32) / 1.8;
     
     Session.set('celsius', celsius);
