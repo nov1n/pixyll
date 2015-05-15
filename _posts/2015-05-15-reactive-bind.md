@@ -92,7 +92,7 @@ index.js
 {% highlight javascript %}
 Template.converter.helpers({
   getCelsius: function() {
-    var fahrenheit = Session.get('celsius');
+    var fahrenheit = Session.get('fahrenheit');
     var celsius = (fahrenheit - 32) / 1.8;
     return celsius;
   }
