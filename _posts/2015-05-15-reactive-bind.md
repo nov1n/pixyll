@@ -78,7 +78,8 @@ index.html
 </body>
 
 <template name='converter'>
-  <input data-binding='fahrenheit' type='text'> <span id='celsius'>{{ getCelsius }}</span>
+  <input data-binding='fahrenheit' type='text'>
+  <span id='celsius'>{{ getCelsius }}</span>
 </template>
 {% endhighlight %}
 
