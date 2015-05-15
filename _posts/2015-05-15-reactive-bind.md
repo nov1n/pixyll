@@ -51,4 +51,32 @@ Template.converter.helpers({
 This pattern is very common in Meteor and can be applied to all the different input elements. For this reason I tried to capture it in a smart package called reactive-bind. The package aims to
 simplify binding input elements to Session variables forming a reactive two-way data binding. This means that other than the Session variable displaying the value of the input element, the input element will reflect changes made to the Session variable.
 
-Several other packages are aou
+Several other packages are out there, aiming to solve the same problem. However they either required tedious setup, only offer one-way binding or are no longer maintained.
+
+To use reactive bind we simply type
+`meteor add nov1n:reactive-bind`
+to add it to our project.
+
+Now all we need to do is add a data attribute called 'data-binding' to our input element to bind it to a Session variable with the same name. To stick with our example we would now write:
+
+index.html
+{% highlight html %}
+<body>
+  {{ >converter }}
+</body>
+
+<template name='converter'>
+  <input data-binding='fahrenheit' type='text'> <span id='celsius'>{{ getCelsius }}</span>
+</template>
+{% endhighlight %}
+
+index.js
+{% highlight javascript %}
+Template.converter.helpers({
+  getCelsius: function() {
+    return Session.get('celsius');
+  }
+});
+{% endhighlight %}
+
+The code above achieves the exact same result as before, only now in a much cleaner, more expressive way. We only used one input element for our example, but many applications may require more than that, each requiring different event handlers. Using reactive-bind we don't have to worry about 
