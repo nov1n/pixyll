@@ -51,4 +51,4 @@ Template.converter.helpers({
 This pattern is very common in Meteor and can be applied to all the different input elements. For this reason I tried to capture it in a smart package called reactive-bind. The package aims to
 simplify binding input elements to Session variables forming a reactive two-way data binding. This means that other than the Session variable displaying the value of the input element, the input element will reflect changes made to the Session variable.
 
-Severl
+Several other packages are aou
