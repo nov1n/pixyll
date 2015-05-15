@@ -7,9 +7,9 @@ summary:    Use the reactive-bind smart package to get two way data binding in M
 categories: tech
 ---
 
-Two-way data binding is term becoming increasingly popular. It basically means the following two things. When data in the model changes, the view will update accordingly. In a similar fashion, changes to the view should propagate back to the model.
+Two-way data binding is a term becoming increasingly popular. It basically means the following two things. When data in the model changes, the view will update accordingly. In a similar fashion, changes to the view should propagate back to the model.
 
-A possible application of two-way data binding can best be illustrated with an example. In this case we will use the Session as the 'model' and an html input element as the 'view'.
+A possible application of two-way data binding can best be illustrated with an example. In this case we will use Session as the 'model' and an html input element as the 'view'.
 
 ## A simple example
 
@@ -29,12 +29,13 @@ This should give us something like this:
 index.html
 {% highlight html %}
 <body>
-  { { >converter }\}
+  { { >converter }
+  }
 </body>
 
 <template name='converter'>
   <input id='fahrenheit' type='text'>
-  <span id='celsius'>\{{ getCelsius \}}</span>
+  <span id='celsius'>{{ getCelsius }}</span>
 </template>
 {% endhighlight %}
 
