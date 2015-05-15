@@ -1,5 +1,5 @@
 ---
-published: true
+published:  false
 layout:     post
 title:      Two-way data binding in Meteor
 date:       2015-05-15 14:04:11
