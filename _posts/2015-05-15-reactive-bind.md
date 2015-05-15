@@ -28,11 +28,9 @@ This should give us something like this:
 
 index.html
 {% highlight html %}
-<body>
-{% raw %}
+{% raw %}<body>
   {{ >converter }}
-{% endraw %}
-</body>
+</body>{% endraw %}
 
 
 <template name='converter'>
