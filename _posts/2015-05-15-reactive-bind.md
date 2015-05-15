@@ -14,7 +14,11 @@ we display the result in Celsius right next to it. Easy enough right?
 Let's see how we might do this. Start with a textfield and add an event-listener to the template. Whenever the input changes 
 we take the value of the text field and store it in a Session variable named 'fahrenheit'.
 
-As for the conversion, the formula is:  `Celsius = (Fahrenheit - 32) / 1.8`. Armed with this information we create a span and set its text equal to the value of the 'fahrenheit' Session variable we previously created.
+As for the conversion, the formula is:  
+
+`Celsius = (Fahrenheit - 32) / 1.8` 
+
+Armed with this information we create a span and set its text equal to the value of the 'fahrenheit' Session variable we previously created.
 
 This should give us something like this:
 
