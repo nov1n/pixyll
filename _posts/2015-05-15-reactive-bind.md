@@ -29,7 +29,7 @@ This should give us something like this:
 index.html
 {% highlight html %}
 <body>
-  \{{ >converter \}}
+  { { >converter } }
 </body>
 
 <template name='converter'>
