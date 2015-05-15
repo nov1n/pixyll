@@ -14,6 +14,41 @@ we display the result in Celsius right next to it. Easy enough right?
 Let's see how we might do this. Start with a textfield and add an event-listener to the template. Whenever the input changes 
 we take the value of the text field and store it in a Session variable named 'fahrenheit'.
 
-As for the conversion, the formula is:  Celsius = (Fahrenheit - 32) / 1.8. Armed with this information 
+As for the conversion, the formula is:  `Celsius = (Fahrenheit - 32) / 1.8`. Armed with this information we create a span and set its text equal to the value of the 'fahrenheit' Session variable we previously created.
 
-This idiom is very common in Meteor hence I tried to capture it in a smart package called reactive-bind
+This should give us something like this:
+
+index.html
+{% highlight html %}
+<body>
+  {{ >converter }}
+</body>
+
+<template name='converter'>
+  <input id='fahrenheit' type='text'> <span id='celsius'>{{ getCelsius }}</span>
+</template>
+{% endhighlight %}
+
+index.js
+{% highlight javascript %}
+Template.converter.events = {
+  'keyup #fahrenheit': function (e) {
+    var $target = $(e.target);
+    var fahrenheit = $target.val();
+    var celsius = (fahrenheit - 32) / 1.8;
+    
+    Session.set('celsius', celsius);
+  }
+};
+
+Template.converter.helpers({
+  getCelsius: function() {
+    return Session.get('celsius');
+  }
+});
+{% endhighlight %}
+
+This pattern is very common in Meteor and can be applied to all the different input elements. For this reason I tried to capture it in a smart package called reactive-bind. The package aims to
+simplify binding input elements to Session variables forming a reactive two-way data binding. This means that other than the Session variable displaying the value of the input element, the input element will reflect changes made to the Session variable.
+
+Severl
