@@ -25,11 +25,11 @@ This should give us something like this:
 index.html
 {% highlight html %}
 <body>
-  {{ >converter }}
+  \{\{ >converter \}\}
 </body>
 
 <template name='converter'>
-  <input id='fahrenheit' type='text'> <span id='celsius'>{{ getCelsius }}</span>
+  <input id='fahrenheit' type='text'> <span id='celsius'>\{\{ getCelsius \}\}</span>
 </template>
 {% endhighlight %}
 
