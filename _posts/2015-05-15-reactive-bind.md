@@ -25,7 +25,7 @@ As for the conversion, the formula is:
 Armed with this information we create a span and set its text equal to the value of the 'fahrenheit' Session variable we previously created.
 
 This should give us something like this:
-<iframe height='50' width='400' src='http://converter.meteor.com'></iframe>
+<iframe height='21px' width='400' src='http://converter.meteor.com'></iframe>
 
 index.html
 {% highlight html %}
