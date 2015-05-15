@@ -7,7 +7,7 @@ summary:    Use the reactive-bind smart package to get two way data binding in M
 categories: tech
 ---
 
-For those of you unsure of what two-way data binding is exactly, the following two sentences should clarify. When data in the model changes, the view will update accordingly. In a similar fashion, in case the view changes, these changes should propagate back to the model. This basically means the view and the model stay synchronized at all times.
+Two-way data binding is term becoming increasingly popular. It basically means the following two things. When data in the model changes, the view will update accordingly. In a similar fashion, changes to the view should propagate back to the model.
 
 A possible application of two-way data binding can best be illustrated with an example. In this case we will use the Session as the 'model' and an html input element as the 'view'.
 
