@@ -79,4 +79,8 @@ Template.converter.helpers({
 });
 {% endhighlight %}
 
-The code above achieves the exact same result as before, only now in a much cleaner, more expressive way. We only used one input element for our example, but many applications may require more than that, each requiring different event handlers. Using reactive-bind we don't have to worry about 
+The code above achieves the exact same result as before, only now in a much cleaner, more expressive way. Note we did not have to write the event handlers at all. Only one input element was used in our example, but many applications may require more than that, each with different event handlers. reactive-bind will take care of the binding for you, hopefully speeding up development.
+
+The package is still in its early stages so feel free to contribute, open issues or say thank you on [Github](https://github.com/nov1n/reactive-bind/) or [Atmosphere](https://atmospherejs.com/nov1n/reactive-bind).
+
+
