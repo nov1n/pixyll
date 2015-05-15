@@ -7,7 +7,11 @@ summary:    Use the reactive-bind smart package to get two way data binding in M
 categories: tech
 ---
 
-## What is two-way data binding
+For those of you unsure of what two-way data binding is exactly, the following two sentences should clarify. When data in the model changes, the view will update accordingly. In a similar fashion, in case the view changes, these changes should propagate back to the model. This basically means the view and the model stay synchronized at all times. This is very useful when there are multiple sources from which data may be changed.
+
+A possible application of two-way data binding can best be illustrated with an example. In this case we will use the Session as the 'model' and an html input element as the 'view'.
+
+## A simple example
 
 Imagine we want to create a very simple Meteor app that converts Fahrenheit to Celsius. The user fills in a text field with the temperature in Fahrenheit, 
 we display the result in Celsius right next to it. Easy enough right?
@@ -25,12 +29,12 @@ This should give us something like this:
 index.html
 {% highlight html %}
 <body>
-  \{\{ >converter \}\}
+  \{{ >converter \}}
 </body>
 
 <template name='converter'>
   <input id='fahrenheit' type='text'>
-  <span id='celsius'>\{\{ getCelsius \}\}</span>
+  <span id='celsius'>\{{ getCelsius \}}</span>
 </template>
 {% endhighlight %}
 
@@ -53,11 +57,14 @@ Template.converter.helpers({
 });
 {% endhighlight %}
 
+## Reactive-bind
+
 This pattern is very common in Meteor and can be applied to all the different input elements. For this reason I tried to capture it in a smart package called reactive-bind. The package aims to
 simplify binding input elements to Session variables forming a reactive two-way data binding. This means that other than the Session variable displaying the value of the input element, the input element will reflect changes made to the Session variable.
 
 Several other packages are out there, aiming to solve the same problem. However they either required tedious setup, only offer one-way binding or are no longer maintained.
 
+## Rewriting the example
 To use reactive bind we simply type
 `meteor add nov1n:reactive-bind`
 to add it to our project.
@@ -86,6 +93,7 @@ Template.converter.helpers({
 
 The code above achieves the exact same result as before, only now in a much cleaner, more expressive way. Note we did not have to write the event handlers at all. Only one input element was used in our example, but many applications may require more than that, each with different event handlers. reactive-bind will take care of the binding for you, hopefully speeding up development.
 
+For more examples involving multiple input elements click [here](http://reactive-bind-demo.meteor.com/).
 The package is still in its early stages so feel free to contribute, open issues or say thank you on [Github](https://github.com/nov1n/reactive-bind/) or [Atmosphere](https://atmospherejs.com/nov1n/reactive-bind).
 
 
