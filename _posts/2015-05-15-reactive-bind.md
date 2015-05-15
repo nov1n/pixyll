@@ -60,10 +60,9 @@ Template.converter.helpers({
 
 ## Reactive-bind
 
-This pattern is very common in Meteor and can be applied to all the different input elements. For this reason I created a tried to capture it in a smart package called reactive-bind. The package aims to
-simplify binding input elements to Session variables forming a reactive two-way data binding. This means that other than the Session variable displaying the value of the input element, the input element will reflect changes made to the Session variable.
+This pattern is very common in Meteor and can be applied to all the different input elements. For this reason I created a smart package called reactive-bind. As the name suggests it simplifies binding input elements to Session variables forming a reactive two-way data binding. This means that the Session variable will display the value of the input element and the input element will reflect changes made to the Session variable.
 
-Several other packages are out there, aiming to solve the same problem. However they either required tedious setup, only offer one-way binding or are no longer maintained.
+Several other packages are out there, doing similar things. However they either required tedious setup, only offer one-way binding or are no longer maintained.
 
 ## Rewriting the example
 To use reactive bind we simply type
