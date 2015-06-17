@@ -7,7 +7,7 @@ categories: tech
 ---
 
 
-Tell me if this sounds familiar. As you hack away on your killer meteor app, something unexpected happens. Determined to figure out what caused it, you open the devtools in your favorite browser. You start with `Session.get('someVariable')` which returns the expected value. After clicking six buttons and filling out a text field, you check again. Nothing out of the ordinary. Maybe it is that `spaceships` collection you created minutes earlier. A quick `Spaceships.find().fetch()` shows an array of all the documents. Expanding all of them, the last one appears to have an undefined field. This is what caused the unexpected behavior. You add some validation before documents are saved and the app works as it should.
+Tell me if this sounds familiar. As you hack away on your killer meteor app, something unexpected happens. Determined to figure out what caused it, you open the devtools in your favorite browser. You start with `Session.get('someVariable')` which returns the expected value. After clicking six buttons and filling out a text field, you check again. Nothing out of the ordinary. Maybe it is that `spaceships` collection you created minutes earlier. A quick `Spaceships.find().fetch()` shows an array of all the documents. Expanding all of them, the last one appears to have an undefined field. This is what caused the unexpected behavior. You add some validation before documents are saved, and the app works as it should.
 
 ## The problem
 
@@ -19,7 +19,7 @@ Luckily Max Savin created a set of tools called [Meteor Toys](http://meteor.toys
 
 ## Mongol
 
-The first one is [Mongol](https://github.com/msavin/Mongol). This is a visual editing tool for mongodb collections in meteor. This may sound a bit fuzzy which is why we're going to look at what it does together. For those of you who like to follow along, add the package to your meteor project with the following command.
+The first one is [Mongol](https://github.com/msavin/Mongol). This is a visual editing tool for mongodb collections in meteor. This may sound a bit vague, which is why we're going to look at what it does together. For those of you who like to follow along, add the package to your meteor project with the following command.
 
 `meteor add msavin:mongol`
 
