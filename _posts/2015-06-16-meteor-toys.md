@@ -1,7 +1,10 @@
 ---
 published: true
+layout: post
+date: {}
+summary: Simplify debugging in meteor with JetSetter and Mongol.
+categories: tech
 ---
-
 
 ## Meteor Toys
 
