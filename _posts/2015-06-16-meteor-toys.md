@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2015-06-16 13:44:19
 summary: Simplify debugging in meteor with JetSetter and Mongol.
 categories: tech
 ---
