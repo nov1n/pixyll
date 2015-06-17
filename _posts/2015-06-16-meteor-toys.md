@@ -6,7 +6,8 @@ summary: Simplify debugging in meteor with JetSetter and Mongol.
 categories: tech
 ---
 
-Tell me if this sounds familiar. As you hack away on your killer meteor app, something unexpected happens. Determined to figure out what caused it, you open the devtools in your favorite browser. You start with `Session.get('someVar')` which returns the expected value. After clicking six buttons and filling out a text field, you check again. Nothing out of the ordinary. Maybe it is that `spaceships` collection you created minutes earlier. A quick `Spaceships.find().fetch()` shows an array of all the documents. Expanding all of them, the last one appears to have an undefined field. This is what caused the unexpected behavior. You add some validation before documents are saved and the app works as it should.
+
+Tell me if this sounds familiar. As you hack away on your killer meteor app, something unexpected happens. Determined to figure out what caused it, you open the devtools in your favorite browser. You start with `Session.get('someVariable')` which returns the expected value. After clicking six buttons and filling out a text field, you check again. Nothing out of the ordinary. Maybe it is that `spaceships` collection you created minutes earlier. A quick `Spaceships.find().fetch()` shows an array of all the documents. Expanding all of them, the last one appears to have an undefined field. This is what caused the unexpected behavior. You add some validation before documents are saved and the app works as it should.
 
 ## The problem
 
