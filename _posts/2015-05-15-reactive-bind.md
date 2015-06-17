@@ -3,7 +3,7 @@ published:  true
 layout:     post
 title:      Two-way data binding in Meteor
 date:       2015-05-15 14:04:11
-summary:    Use the reactive-bind smart package to get two way data binding in Meteor.
+summary:    Use the reactive-bind smart package to get two way data binding in your Meteor app.
 categories: tech
 ---
 
