@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: 2015-06-16 13:34:25
-summary: Simplify your debugging workflow in meteor with JetSetter and Mongol.
+summary: Simplify your debugging workflow in meteor with JetSetter and Mongol from the Meteor Toys suite.
 categories: tech
 ---
 
