@@ -7,8 +7,6 @@ summary:    The ramblings of a Dutch computer science student studying at Tsingh
 categories: travel
 ---
 
-## Beijing adventure - Part 1
-
 From September till the end of January I'll be studying at Tsinghua university in Beijing. That adventure started a few days ago. It was Thursday 3 September when the taxi dropped me off at Denpansar airport, Bali. After staying in Indonesia for three weeks it was time to leave. I kindly thanked the driver and headed for the nearest check-in counter. Shortly after placing my suitcase on the conveyor belt the lady kindly informed me it was 5kg overweight. I nodded and asked her how much it would cost. She took a calculator, pressed several buttons in rapid succession and turned the display towards me. It displayed 1.550.000. My heart skipped a beat. Converting the amount from Indonesian Rupiah to Euro's I learned 5kg of exceses luggage cost me 98 euros.
 
 'Cabin crew, please be seated for landing', my eyes slowly opened. The Chinese capital, in all its beauty, lay beneath me as I looked out the window. Not much later the wheels touched ground. After the usual rush to leave the aircraft I first set foot on Chinese territory. It was cold and dark outside.
