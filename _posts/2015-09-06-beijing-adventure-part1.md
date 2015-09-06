@@ -1,9 +1,9 @@
 ---
 published: true
 layout:     post
-title:      Beijing adventures - Part 1
+title:      Beijing adventure - Part 1
 date:       2015-09-06 22:22:01
-summary:    The story of a Dutch computer science student studying at Tsinghua university in Beijing for 5 months.
+summary:    The ramblings of a Dutch computer science student studying at Tsinghua University in Beijing for 5 months.
 categories: travel
 ---
 
