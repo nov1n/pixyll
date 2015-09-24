@@ -17,8 +17,6 @@ About five bus stops away from the campus lies the bird nest. This is the stadiu
 
 ![Olympic stadium]({{ site.url }}/images/birds_nest.jpg)
 
-This weekend me and 5 friends whom I met in the dorm visited the great wall. We woke up early to avoid traffic jams and the majority of the tourists. At 7.30AM our driver picked us up at the east gate of the campus. After about two hours we arrived at the destination. From there we took a shuttle bus and a cable car to reach the top of the wall. 
-
 I'd like to end this post with a picture of the great wall I took last weekend. We were lucky to catch a blue sky, which is very rare in Beijing. 
 ![Wall]({{ site.url }}/images/wall.jpg)
 
