@@ -3,7 +3,7 @@ published: true
 layout:     post
 title:      Beijing adventure - Part 2
 date:       2015-09-22 20:22:01
-summary:    First two weeks at Tsinghua university.
+summary:    First two weeks at Tsinghua university featuring awkward stares, russian roulette and traffic mayhem.
 categories: travel
 ---
 
