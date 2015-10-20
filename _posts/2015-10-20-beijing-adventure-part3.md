@@ -7,13 +7,15 @@ summary:    Australia, the golden week and chopstick struggles.
 categories: travel
 ---
 
+![CAMP]({{ site.url }}/images/camp.jpg)
+
 As I cycled to class I came across an English banner. This caught my attention because practically everything on campus is in Chinese. "Join the CAMP competition and win a trip to Australia" it said. This looked like a good opportunity to meet like-minded Chinese as well as International people from Beijing, so I signed up. Two days later me and two of my friends from the dorm took the subway. We ended up in a very poor part of the city. Walking in circles we kept telling we were not lost. Right when we decided to turn around, a tall blonde girl appeared and walked towards us. She said we were not lost but in fact two streets away from our destination.
 
 Passing through what looked like an art exposition led us to a large hall where the competition would take place. It had an industrial look similar to the upscale coffee shops and pop-up stores slowly taking over major cities. After a short introduction we went through several ice-breaking activities to get to know the people around us. I met a Dutch girl and a Japanese girl with whom I formed a team.
 
 The objective was to design a product that facilitates international communication. After several hours of fruitless brainstorming, we agreed on an idea. I was lucky to have two very artistic individuals in my team. One of them spun up a storyboard in about 10 minutes as the other sketched a wireframe displaying the application's features. We pitched the idea to the Australian jury panel and incredibly enough won the competition. This means sometime around June next year, we will go to Sydney for a week. Awesome.
 
-![CAMP]({{ site.url }}/images/camp.jpg)
+![Map]({{ site.url }}/images/map.jpg)
 
 ## Golden week
 The golden week is from 1 to 7 oktober. It is a national holiday in which most of China goes traveling around the country. In the spirit of 'act like a local' I booked a train ticket to Datong, a famous city to the west of Beijing. Armed with my backpack and my passport I took a taxi, arriving the Beijing West train station at around 11:00PM. I could not read the seat number on my ticket, so I repeatedly handed it to staff members at different carriages, until one pointed at the door. The coach was dark and filled with triple bunk beds. As I climbed a tiny ladder to reach the top bed I bumped my head. This place was clearly not made with tall Europeans in mind. I woke up about four more people before I finally reached the bed. Using my backpack as a pillow, paranoid of losing my passport and being deported, I slowly fell asleep. 
