@@ -25,7 +25,7 @@ In the evening we had a dumpling dinner, which as the name suggests, consisted s
 
 Back in Beijing I woke up the next day. As I looked out of the window it was snowing. The leaves had just turned yellow and at the same time everything was covered in snow. Two weeks ago I remember it being 20 degrees as we sat in the park in a t-shirt. Nature supposedly forgot about fall and rushed straight into winter. 
 
-![Beijing]({{ site.url }}/images/beijing.jpg) 
+![Beijing]({{ site.url }}/images/beijing.jpg)
 
 Other than cold pollution has been worsening by the day as well. It is a big problem in China and many are wearing masks to protect them from the so called PM2.5 particles in the air. These are produced by the factories in the city outskirts. When there is no wind a thick haze covers the streets. Breathing this air feels like breathing through a straw and is uncomfortable to say the least. As a protective measure I created a DIY air cleaner to keep me safe in my room. It looks very primitive but judging from the fact that the filter turned all black in a matter of weeks, I like to tell myself that it helps at least a little bit.
 
