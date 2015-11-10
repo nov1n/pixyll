@@ -23,14 +23,14 @@ The next day we headed to the terracotta warriors. This is a tomb containing app
 
 ![Terracotta Warriors]({{ site.url }}/images/terracotta-warriors.jpg)
 
-In the evening we had a dumpling dinner, which as the name suggests, consisted solely of dumplings. The dinner was in a theater accompanied by a traditional Chinese dance performance. Even though I was still in china, I'd never seen so many middle-aged white people in one room. 
+In the evening we had a dumpling dinner, which as the name suggests, consisted solely of dumplings. The dinner was in a theater accompanied by a traditional Chinese dance performance. Even though I was still in China, I'd never seen so many middle-aged white people in one room. 
 
 ## Beijing
-Back in Beijing I woke up the next day. As I looked out of the window it was snowing. The leaves had just turned yellow and at the same time everything was covered in snow. Two weeks ago I remember it being 20 degrees as we sat in the park in a t-shirt. Nature supposedly forgot about fall and rushed straight into winter. 
+Upon waking up in Beijing one day, I looked out of the window. It was snowing. The leaves had just turned yellow and at the same time everything was covered in snow. Two weeks ago I remember it being 20 degrees as we sat in the park in a t-shirt. Nature supposedly forgot about fall and rushed straight into winter. 
 
 ![Beijing]({{ site.url }}/images/beijing.jpg)
 
-Other than cold pollution has been worsening by the day as well. It is a big problem in China and many are wearing masks to protect them from the so called PM2.5 particles in the air. These are produced by the factories in the city outskirts. When there is no wind a thick haze covers the streets. Breathing this air feels like breathing through a straw and is uncomfortable to say the least. To prevent chronical bronchitus I created a DIY air cleaner. It looks very primitive. This is mostly because it is very primitve. It is a filter strapped to a fan. Judging from the fact that the filter turned all black in a matter of weeks, I like to tell myself that it helps at least a little bit.
+Other than the cold, pollution has been worsening by the day. It is a big problem in China and many are wearing masks to protect them from the so called PM2.5 particles in the air. These are produced by the factories in the city outskirts. When there is no wind, a thick haze covers the streets. Breathing this air feels like breathing through a straw and is uncomfortable to say the least. To prevent chronical bronchitus and I built a DIY air cleaner. It looks very primitive. This is mostly because it is very primitve. It is a filter strapped to a fan. Judging from the fact that the filter turned all black in a matter of weeks, I like to tell myself that it helps at least a little bit.
 
 ![Cleaner]({{ site.url }}/images/cleaner.jpg)
 
