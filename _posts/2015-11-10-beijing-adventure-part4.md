@@ -9,10 +9,12 @@ categories: travel
 
 Two weeks ago my parents arrived at Beijing Capital International Airport. Through weekly Skype sessions I have tried to explain the cultural differences but my words were inadequate. The photographs I made did a better job at describing what life was like here. Now they could see it for themselves.
 
+## Summer Palace
 On Tuesday we visited the Summer Palace, an imperial garden very close from my university. In 1998 the garden was added to the World Heritage List, described as 'a masterpiece of Chinese landscape and garden design'. It was very foggy that day which limited visibility but created a mysterious atmosphere. Below is a picture of the marble boat which was one of my favorite pavilions.
 
 ![Summer Palace]({{ site.url }}/images/summer-palace.jpg)
 
+## Xi'an
 Later that week we took the bullet train to Xi'an, the capital of the Shaanxi province. It lies 1100 kilometers south south-west of Beijing. With a top speed well over 300 km/h, the train 'only' took 5 hours to get there.
 
 Upon arrival we had a delicious steak and a pasta carbonara. I had lived on rice and chicken for two months by this point. You can imagine delighted I was.
@@ -23,6 +25,7 @@ The next day we headed to the terracotta warriors. This is a tomb containing app
 
 In the evening we had a dumpling dinner, which as the name suggests, consisted solely of dumplings. The dinner was in a theater accompanied by a traditional Chinese dance performance. Even though I was still in china, I'd never seen so many middle-aged white people in one room. 
 
+## Beijing
 Back in Beijing I woke up the next day. As I looked out of the window it was snowing. The leaves had just turned yellow and at the same time everything was covered in snow. Two weeks ago I remember it being 20 degrees as we sat in the park in a t-shirt. Nature supposedly forgot about fall and rushed straight into winter. 
 
 ![Beijing]({{ site.url }}/images/beijing.jpg)
