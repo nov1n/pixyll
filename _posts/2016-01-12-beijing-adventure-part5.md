@@ -9,6 +9,7 @@ categories: travel
 
 ![Harbin]({{ site.url }}/images/harbin.jpg)
 
+## Harbin
 I spent the weekend in Harbin which was without a doubt one of the coolest (literally!) places I've ever been to. It lies north east of Beijing and it takes about 8 hours by train to get there. This city is famous for the world's biggest snow and ice festival each winter. It hosts an international ice sculpture competition where artists from all around the world visit Harbin to create the most beautiful chilly art.
 The sculptures can be found in a temporary city built completely out of ice and snow. The city contains palaces and castles much like Disney Land.
 
