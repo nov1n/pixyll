@@ -9,6 +9,7 @@ categories: travel
 
 ![Harbin]({{ site.url }}/images/harbin.jpg)
 
+## Harbin
 I spent the weekend in Harbin which was without a doubt one of the coolest (literally!) places I've ever been to. It lies north east of Beijing and it takes about 8 hours by train to get there. This city is famous for the world's biggest snow and ice festival each winter. It hosts an international ice sculpture competition where artists from all around the world visit Harbin to create the most beautiful chilly art.
 The sculptures can be found in a temporary city built completely out of ice and snow. The city contains palaces and castles much like Disney Land.
 
@@ -17,10 +18,12 @@ Now Harbin is very, very cold. That night it was about 25 degrees below zero. I 
 
 ![Street]({{ site.url }}/images/street.jpg)
 
+## Frozen lake
 At the end of the street I found a frozen lake. This seemed to be a meeting place for locals as it was very busy here. Kids were ice skating and sledding. Adults were driving snow scooters, buggies and horses. It was a very intersting display. I found this one kid who seemed like he regretted his decision to go tubing.
 
 ![Tubing Kid]({{ site.url }}/images/tubing.jpg)
 
+## Ice festival
 It was time for the ice festival. I bought several heat packs to put in my shoes and gloves. Even with these, it was not exaclty warm but atleast I would not lose any toes along the way. Bringing water bottles I was very prepared. The only problem being that they turned into a solid block of ice within about an hour. A good way for the park to boost its drink sales.
 
 ![Street]({{ site.url }}/images/park.jpg)
@@ -30,6 +33,7 @@ Cold and batteries don't go together that well either. My first camera battery d
 
 ![Park]({{ site.url }}/images/park2.jpg)
 
+## Food and games
 Later that night the host in my hostel invited me to visit his friend. He also had a hostel a couple of blocks down the road. Twenty students from Thailand were staying for a school trip. We spent the night playing table football, xbox and a card game which I did not quite understand, probably because my Thai still needs some work.
 
 When I woke up the next morning several Chinese invited me to get lunch at a traditional place. An offer I could not refuse. I had my fair share of local delicacies including chicken stomach, chicken intestines and a pig's ear. Luckily for me there were some dishes that I could stomach more easily. They helped me find me a taxi and off I went, back to Beijing.
