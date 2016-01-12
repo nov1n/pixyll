@@ -3,7 +3,7 @@ published: true
 layout:     post
 title:      Beijing adventure - Part 5
 date:       2016-01-12 13:23:33
-summary:    A venture to the Harbin Ice Festival.
+summary:    A weekend in Harbin.
 categories: travel
 ---
 
@@ -30,9 +30,9 @@ Cold and batteries don't go together that well either. My first camera battery d
 
 ![Park]({{ site.url }}/images/park2.jpg)
 
-Later that night the host in my hostel invited me to visit his friend. He also had a hostel a couple of blocks down the road. Twenty students from Thailand were staying for a school trip. We spent the night playing table football, xbox and a card game which I did quite understand, probably because my Thai still needs some work.
+Later that night the host in my hostel invited me to visit his friend. He also had a hostel a couple of blocks down the road. Twenty students from Thailand were staying for a school trip. We spent the night playing table football, xbox and a card game which I did not quite understand, probably because my Thai still needs some work.
 
-When I woke up the next morning several Chinese invited me to get lunch at a traditional place. An offer I could not refuse. I had my fair share of local delicacies including chicken stomach, chicken intestines and pig's ear. Luckily for me there were some dishes that I could stomach more easily. They helped me find me a taxi and off I went, back to Beijing.
+When I woke up the next morning several Chinese invited me to get lunch at a traditional place. An offer I could not refuse. I had my fair share of local delicacies including chicken stomach, chicken intestines and a pig's ear. Luckily for me there were some dishes that I could stomach more easily. They helped me find me a taxi and off I went, back to Beijing.
 
 ![Food]({{ site.url }}/images/food.jpg)
 
