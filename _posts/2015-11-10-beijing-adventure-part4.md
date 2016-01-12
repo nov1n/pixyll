@@ -30,7 +30,7 @@ Upon waking up in Beijing one day, I looked out of the window. It was snowing. T
 
 ![Beijing]({{ site.url }}/images/beijing.jpg)
 
-Other than the cold, pollution has been worsening by the day. It is a big problem in China and many are wearing masks to protect them from the so called PM2.5 particles in the air. These are produced by the factories in the city outskirts. When there is no wind, a thick haze covers the streets. Breathing this air feels like breathing through a straw and is uncomfortable to say the least. To prevent chronical bronchitus and I built a DIY air cleaner. It looks very primitive. This is mostly because it is very primitve. It is a filter strapped to a fan. Judging from the fact that the filter turned all black in a matter of weeks, I like to tell myself that it helps at least a little bit.
+Other than the cold, pollution has been worsening by the day. It is a big problem in China and many are wearing masks to protect them from the so called PM2.5 particles in the air. These are produced by the factories in the city outskirts. When there is no wind, a thick haze covers the streets. Breathing this air feels like breathing through a straw and is uncomfortable to say the least. I tried building a DIY air cleaner. It looks very primitive. This is mostly because it is very primitve. It is a filter strapped to a fan. Judging from the fact that the filter turned all black in a matter of weeks, I like to tell myself that it helps at least a little bit.
 
 ![Cleaner]({{ site.url }}/images/cleaner.jpg)
 
