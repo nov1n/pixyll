@@ -13,6 +13,7 @@ Chinese are famous for eating everything. Well not exactly everything, but close
 
 ![Scorpion]({{ site.url }}/images/scorpion.jpg)
 
+## South-Korea
 Next up was South-Korea, home of fast wifi, hipster coffee places and beautiful people. Soyeon, a Korean girl I met in Beijing offered to be my tour guide for a few days and showed me all the hidden gems in Seoul. This made my stay so much smoother as she knew the way and happens to be an excellent trip planner as well. Korea has a lot to offer and has become one of my favorite cities in the world. It is much calmer that Beijing and their culture is more similar to Western culture which it easier to feel at home.
 
 The food is excellent if you like spicy, seaweed and rice. My favorite dish is Tteokbokki; rice cakes in a spicy red sauce. If I manage to find a good Korean restaurant this is something what I will order.
@@ -28,12 +29,13 @@ It was an interesting experience.
 
 ![Temple]({{ site.url }}/images/temple.jpg)
 
+## Hong Kong
 Before going back to Europe I visited in Hong Kong. This city is famous for its tall buildings, cheap gadgets and narrow, crowded streets. As it has been a British colony for a long time, the western influence is clearly noticable.
 I stayed in a hostel with a street performer clown, a movie editor and a freelance web developer. The mix of backgrounds and cultures made for interesting conversations and good travel partners.
 The highlight of this trip was, without a doubt, the Peak. A hill from where the beauty of Hong Kong's skyline becomes crystal clear.
 
 ![HongKong]({{ site.url }}/images/hongkong.jpg)
 
-To everyone I met along the way, I cannot thank you enough for making this time as memorable as it was. To my friends and family, thank you for reading this. To everyone who has a chance to go out and see the world, please do. You will not regret it and if you do I will refund your trip. Just kidding, but please do.
+To everyone I met along the way, I cannot thank you enough for making this time as memorable as it was. To my friends and family, thank you for reading this. To everyone who has a chance to go out and see the world, please go. You will not regret it and if you do I will refund your trip. Just kidding, but please go.
 
 Cheers.
