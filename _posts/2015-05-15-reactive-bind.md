@@ -24,12 +24,8 @@ As for the conversion, the formula is:
 
 Armed with this information we create a span and set its text equal to the value of the 'fahrenheit' Session variable we previously created.
 
-This should give us something like this:
-<iframe height='21px' width='400' src='http://converter.meteor.com'></iframe>
-
 index.html
-{% highlight html %}
-{% raw %}
+```
 <body>
   {{ >converter }}
 </body>
@@ -38,11 +34,10 @@ index.html
   <input id='fahrenheit' type='text'>
   <span id='celsius'>{{ getCelsius }}</span>
 </template>
-{% endraw %}
-{% endhighlight %}
+```
 
 index.js
-{% highlight javascript %}
+```
 Template.converter.events = {
   'keyup #fahrenheit': function (e) {
     var fahrenheit = e.target.value;
@@ -57,7 +52,7 @@ Template.converter.helpers({
     return Session.get('celsius');
   }
 });
-{% endhighlight %}
+```
 
 ## Reactive-bind
 
@@ -75,8 +70,7 @@ in our project folder, to add it to our project.
 Now all we need to do is add a data attribute called 'data-binding' with the name of the variable to our input element. This will bind it to a Session variable with the same name. To stick with our example we would now write:
 
 index.html
-{% highlight html %}
-{% raw %}
+```
 <body>
   {{ >converter }}
 </body>
@@ -85,11 +79,10 @@ index.html
   <input data-binding='fahrenheit' type='text'>
   <span>{{ getCelsius }}</span>
 </template>
-{% endraw %}
-{% endhighlight %}
+```
 
 index.js
-{% highlight javascript %}
+```
 Template.converter.helpers({
   getCelsius: function() {
     var fahrenheit = Session.get('fahrenheit');
@@ -97,7 +90,7 @@ Template.converter.helpers({
     return celsius;
   }
 });
-{% endhighlight %}
+```
 
 The code above produces the exact same result as before in a much cleaner, more expressive way. Note that we did not have to write the event handlers at all. 
 
