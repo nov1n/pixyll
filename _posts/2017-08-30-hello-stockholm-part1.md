@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2017-08-19T13:21:33.000Z
+date: 2017-08-30T13:21:33.000Z
 summary: Heading north to study at KTH Royal Institute of Technology for one year.
 categories: travel
 title: Hello Stockholm - Part 1
