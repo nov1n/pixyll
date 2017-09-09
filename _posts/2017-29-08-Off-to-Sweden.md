@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2017-08-30T13:21:00.000Z
+date: {}
 summary: Heading north to study at KTH Royal Institute of Technology for one year.
 categories: travel
 ---
@@ -19,7 +19,7 @@ The queue was long. In front of me was a woman who looked nervous. She was white
 ### Lãppkarrsberget
 It was still the 20th of August, and the room where I would stay was still under construction. Lucky for me we were welcome to sleep at Jim's place at Lãppkarrsberget or 'Lappis' as most people called it. This is the student epicenter of Stockholm. The main square with barbecues, a ping pong table, a supermarket, and a sportsbar is surrounded by over 2000 accomodations, housing a good portion of KTH and Stockholm Univerity's students. We had wholegrain bread with nutella for dinner and went to sleep. The next morning we went out for breakfast to one of many tiny cafés in Stockholm. Sweden has high standards when it comes to coffee, which is reflected by the wide variety of beans and brewing methods to choose from. After cleaning the croissant crumbles from my cheecks we moved on to see the city.
 
-![Lappis]({{ site.url }}/images/lappis.jpg)
+![Lappis]({{ site.url }}/images/lappis.png)
 
 Stockholm stretches across 14 islands, each with its own character. We first went to Gamla Stan or 'Old City', the well preserved medieval city center. With its souvenir shops, the nobel museum and narrow winding cobblestone streets, it is one of my favorite places as of yet. We followed a touristic route along all the main attractions and found a very traditional burger joint to try typical swedish hamburgers with cheddar and bacon and ketchup and mayonnaise. That Tuesday night I sat in Jim's room practicing Swedish vocabulary for my 3-day Duolingo streak, when I heard muffled screams. My gut churned. They became louder and louder and as I looked outside I saw most of the people hanging out of their windows screaming their lungs out into the night sky. After a minor heart attack I was told this so called 'Lappis scream' is an old tradition taking place every Tuesday to destress from long dark winters, housing shortage, and student debt. [Here](https://www.youtube.com/watch?v=C_rttgtyigc) is a video to get an idea.
 
