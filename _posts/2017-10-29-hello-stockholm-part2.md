@@ -9,7 +9,7 @@ title: Hello Stockholm - Part 2
 
 ![Fall]({{ site.url }}/images/fall1200.jpg)
 
-Fall has arrived. The colorful leaves turn the campus walls into a living piece of art. Unlike the photo suggests, clear blue skies have become increasingly rare. Temperatures have been dancing around zero, and starting today the days have become even shorter thanks to wintertime. Sun is setting at 4pm and as a matter of fact it is snowing while I am writing up this post. Suffice to say Sweden is living up to its reputation, skipping fall and diving straight into winter.
+Fall has arrived. The colorful leaves turn the campus walls into a living piece of art. Unlike the photo suggests, clear blue skies have become increasingly rare. Temperatures have been dancing around zero, and starting today the days have become even shorter thanks to wintertime. Sun is setting at 4pm and as a matter of fact it is snowing while I am writing up this post. Sweden is living up to its reputation, skipping fall and diving straight into winter.
 
 Since last time I have had some time to adapt to Swedish lifestyle. Needless to say not without the necessary embarrassments and amusing anecdotes. I bought Filmjölk at Lidl, which unmistakably translated to whole milk; perfect for making cappuccino at home. Except that it didn't and I found myself whipping yoghurt instead. Rookie mistake.
 
