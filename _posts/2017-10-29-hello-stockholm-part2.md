@@ -11,7 +11,7 @@ title: Hello Stockholm - Part 2
 
 Fall has arrived. The colorful leaves turn the campus walls into a living piece of art. Unlike the photo suggests, clear blue skies have become increasingly rare. Temperatures have been dancing around zero, and starting today the days have become even shorter thanks to wintertime. Sun is setting at 4pm and as a matter of fact it is snowing while I am writing up this post. Sweden is living up to its reputation, skipping fall and diving straight into winter.
 
-Since last time I have had some time to adapt to Swedish lifestyle. Needless to say not without the necessary embarrassments and amusing anecdotes. I bought Filmjölk at Lidl, which unmistakably translated to whole milk; perfect for making cappuccino at home. Except that it didn't and I found myself whipping yoghurt instead. Rookie mistake.
+Since last time I have had some time to adapt to Swedish lifestyle. Needless to say not without the necessary embarrassments and amusing anecdotes. I bought *filmjölk* at Lidl, which unmistakably translated to whole milk; perfect for making cappuccino at home. Except that it didn't and I found myself whipping sour fermented yoghurt instead. Rookie mistake.
 
 Coffee comes in two sizes S, and L. This might look convenient at first sight, perfectly analogous to the English Small and Large. Except that S stands for *stor* (large) and L for *lite* (small). Instead of a morning shot of espresso I was presented with a bowl of coffee large enough to keep Snorlax awake for three days.
 
