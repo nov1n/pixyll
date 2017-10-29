@@ -9,7 +9,7 @@ title: Hello Stockholm - Part 2
 
 ![Fall]({{ site.url }}/images/fall1200.jpg)
 
-Fall has arrived. The colorful leaves turn the campus walls into a living piece of art. Unlike the photo suggests, clear blue skies have become increasingly rare. Temperatures have been dancing around zero and starting today the days have become even shorter thanks to wintertime. Sun is setting at 4pm and as a matter of fact it is snowing while I am writing up this post. Suffice to say Sweden is living up to its reputation, skipping fall and diving straight into winter.
+Fall has arrived. The colorful leafs turn the campus walls into a living piece of art. Unlike the photo suggests, clear blue skies have become increasingly rare. Temperatures have been dancing around zero and starting today the days have become even shorter thanks to wintertime. Sun is setting at 4pm and as a matter of fact it is snowing while I am writing up this post. Suffice to say Sweden is living up to its reputation, skipping fall and diving straight into winter.
 
 Since last time I have had some time to adapt to Swedish lifestyle. Needless to say not without the necessary embarrassments and amusing anecdotes. I bought Filmjölk at Lidl unmistakably translated to whole milk; perfect for making cappuccino at home. Except that it didn't and I found myself whipping yoghurt instead. Rookie mistake. Coffee comes in two sizes S, and L. This might look convenient at first sight, perfectly analogous to the English Small and Large. Except that S stands for *stor* (large) and L for *lite* (small). Instead of a morning shot of espresso I was presented with a bowl of coffee large enough to keep Snorlax awake for three days.
 
@@ -19,7 +19,7 @@ Toilets are mixed in Sweden which is in line with their strong focus on emancipa
 
 ## Swedes
 
-A stereotype about Swedes is their honesty, their willingness to trust strangers, and their obeyance of rules. Once you start paying attention, this behavior can be found everywhere. The cashier does not count your change, she trusts you not to steal from her. Clubs closing at 3 will stop the music at 2.45, and get everyone outside before 3. The metro ticket office will give you a student membership without asking for your student card. This social trust has many benefits. For one there is no need to resort to lawsuits or tit-for-tat style deals to get things done. High-quality people join civil service because they believe in the system. Citizens pay taxes and obey the rules. Government decisions are widely accepted. As a result most things work very well in Sweden.
+A stereotype about Swedes is their honesty, their willingness to trust strangers, and their obeyance of rules. Once you start paying attention, this behavior can be found everywhere. The cashier does not count your change, she trusts you not to steal from her. Clubs closing at 3 will stop the music at 2.45, and get everyone outside before 3. The metro ticket office will give you a student membership without asking for your student card. This social trust has many benefits. For one there is no need to resort to lawsuits or tit-for-tat style deals to get things done. High-quality people join civil service because they believe in the system. Citizens pay taxes and obey the rules. Government decisions are widely accepted. As a result most things work very well in Sweden. Below is my room, now decorated with exquisite contemporary ikea furniture.
 
 ![Room]({{ site.url }}/images/room1200.png)
 
@@ -32,4 +32,4 @@ Alcohol is famously expensive in Sweden. Supermarkets only sell specially brewed
 
 There are a lot of children on the streets. I don't think I have ever seen so many children on the streets. Hip young couples pushing a double stroller up the hill on a Tuesday afternoon is nothing out of the ordinary. What is especially interesting is the amount of young men with walking around with their newborns. This unusual sight is explained by *pappaledigt*. Parents are entitled to 480 days of parent leave for each child. It is encouraged that this is split equally, which results into an equality bonus. During this time the Swedish Social Insurance Administration will pay out benefits. The sight of men taking care of kids is so common here that there is a special word for it: *latte pappa*. This humorous term refers to Scandinavian fathers enjoying a coffee break, before taking their kids to the park. Not a bad deal if you ask me.
 
-![Strollers]({{ site.url }}/images/strollers1200.jpg)
+![Strollers]({{ site.url }}/images/strollers1200.png)
