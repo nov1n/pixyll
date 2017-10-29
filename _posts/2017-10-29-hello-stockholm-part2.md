@@ -13,9 +13,7 @@ Fall has arrived. The colorful leafs turn the campus walls into a living piece o
 
 Since last time I have had some time to adapt to Swedish lifestyle. Needless to say not without the necessary embarrassments and amusing anecdotes. I bought Filmjölk at Lidl unmistakably translated to whole milk; perfect for making cappuccino at home. Except that it didn't and I found myself whipping yoghurt instead. Rookie mistake. Coffee comes in two sizes S, and L. This might look convenient at first sight, perfectly analogous to the English Small and Large. Except that S stands for *stor* (large) and L for *lite* (small). Instead of a morning shot of espresso I was presented with a bowl of coffee large enough to keep Snorlax awake for three days.
 
-## Toilets
-
-Toilets are mixed in Sweden which is in line with their strong focus on emancipation and equality. This means sharing the same queue, on average about three times that of a men's bathroom. After seeing this through and deeply empathizing with women all over the world who struggle with this every day, to my surprise I found another queue to wash my hands. Two women had laid out a vast array of colorful tools on the basin, to perform their otherwise secret makeup rituals. What a mission.
+It was the first time I used a public toilet in Sweden. Toilets are mixed gender which is in line with Sweden's strong focus on emancipation and equality. This means sharing the same queue, on average about three times that of a men's bathroom. After seeing this through and deeply empathizing with women all over the world who struggle with this every day, to my surprise I found another queue to wash my hands. Two women had laid out a vast array of colorful tools on the basin, to perform their otherwise secret makeup rituals. What a mission.
 
 ## Swedes
 
